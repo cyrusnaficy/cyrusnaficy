@@ -1,3 +1,5 @@
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fblue-line&psig=AOvVaw379_RPYX4DQ9DPAX20MdT9&ust=1651636529401000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMiDzte3wvcCFQAAAAAdAAAAABAD)
+
 ### Hi! I am TrustyJar
 
 15 Years Old | Software Development @[SplashAIO](https://splashaio.com/)
