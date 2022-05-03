@@ -1,4 +1,4 @@
-### Hello, I am TrustyJar
+### Hi! I am TrustyJar
 
 15 | Software Development @[SplashAIO](https://splashaio.com/)
 
