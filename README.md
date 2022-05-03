@@ -1,4 +1,4 @@
-![](https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif)
+![](hhttps://media.discordapp.net/attachments/935556275696185454/970897128203374673/Untitled_design.gif)
 
 ### Hi! I am TrustyJar
 
