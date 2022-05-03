@@ -1,4 +1,4 @@
-![](hhttps://media.discordapp.net/attachments/935556275696185454/970897128203374673/Untitled_design.gif)
+![](https://media.discordapp.net/attachments/935556275696185454/970897128203374673/Untitled_design.gif)
 
 ### Hi! I am TrustyJar
 
