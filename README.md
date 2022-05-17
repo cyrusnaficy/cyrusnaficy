@@ -14,3 +14,5 @@ Reach out to me on:
 
 <img src="https://wakatime.com/share/@70382529-6aad-4c01-9b85-9e429842bf84/82817e08-cb0d-4f61-9164-8ec981783078.svg" width="350" height="350"><img src="https://wakatime.com/share/@70382529-6aad-4c01-9b85-9e429842bf84/d7e18e4c-de1f-4b5f-a44b-88ad64c7228d.svg" width="350" height="350">
 
+[![Trusty's github stats](https://github-readme-stats.vercel.app/api?username=trustyjar)](https://github.com/trustyjar/github-readme-stats)
+
