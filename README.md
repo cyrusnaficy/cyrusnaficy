@@ -4,7 +4,7 @@
 
 15 Years Old | Software Development @[SplashAIO](https://splashaio.com/)
 
-I am most proficient in JS and TS. I have worked with GO, Java, HTML, and CSS before. I am currently focusing on improving my Java skills, while also persuing Golang 
+I am most proficient in JS and TS. I have worked with GO, Java, HTML, and CSS before. I am currently focusing on improving my Java skills, while also pursuing Golang 
 
 Reach out to me on:
 
