@@ -2,7 +2,7 @@
 
 ### Hi! I am TrustyJar
 
-15 Years Old | Software Development @[SplashAIO](https://splashaio.com/)
+15 Years Old | Software Development @[SplashAIO](https://splashbots.hyper.co/)
 
 I am most proficient in JS and TS. I have worked with GO, Java, HTML, and CSS before. I am currently focusing on improving my Java skills, while also pursuing Golang 
 
