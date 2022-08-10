@@ -1,6 +1,6 @@
 ![](https://media.discordapp.net/attachments/935556275696185454/970897128203374673/Untitled_design.gif)
 
-### Hi! I am TrustyJar ![](https://komarev.com/ghpvc/?username=TrustyJar)
+### Hi! I am TrustyJar   ![](https://komarev.com/ghpvc/?username=TrustyJar)
 
 15 Years Old | Software Development @[SplashAIO](https://splashbots.hyper.co/)
 
