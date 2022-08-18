@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=TrustyJar)
 
-15 Years Old | Software Development @[SplashAIO](https://splashbots.hyper.co/)
+15 Years Old | Fullstack Development @[SplashAIO](https://splashbots.hyper.co/)
 
 I am most proficient in JS, TS, Java, HTML, and CSS. I am currently learning Golang and Rust.
 
