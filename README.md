@@ -6,11 +6,7 @@
 
 15 Years Old | Fullstack Development @[SplashAIO](https://splashbots.hyper.co/)
 
-
 I am most proficient in JS, TS, Java, HTML, and CSS. I am currently learning Golang and Rust.
-
-Most repos private :/
-
 
 Reach out to me on:
 
