@@ -14,7 +14,7 @@
 
 > Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=express,flask,react,googlecloud,aws,heroku,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,flask,react,electron,googlecloud,aws,heroku,mongodb)](https://skillicons.dev)
 
 > Text Editors & IDEs
 
