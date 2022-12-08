@@ -1,10 +1,12 @@
 ![](https://media.discordapp.net/attachments/935556275696185454/970897128203374673/Untitled_design.gif)
 
-### Hi! I am Cyrus
+# Hi! I am Cyrus
 
-![](https://komarev.com/ghpvc/?username=TrustyJar)
+## ![](https://komarev.com/ghpvc/?username=TrustyJar)
 
-16 Years Old | Fullstack Development @[SplashAIO](https://splashbots.hyper.co/)
+
+
+### 16 Years Old | Fullstack Development @[SplashAIO](https://splashbots.hyper.co/)
 
 
 
