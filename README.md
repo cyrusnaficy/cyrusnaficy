@@ -16,9 +16,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=express,flask,react,electron,googlecloud,aws,heroku,mongodb)](https://skillicons.dev)
 
-> Text Editors & IDEs
+> Text Editors, IDEs, & Other Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,figma)](https://skillicons.dev)
 
 Reach out to me on:
 
