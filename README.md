@@ -2,9 +2,10 @@
 
 # Hi! I am Cyrus
 
-## <img src="https://komarev.com/ghpvc/?username=TrustyJar" style="margin-top: 10px">
+## ![](https://komarev.com/ghpvc/?username=TrustyJar)
 
 ### 16 Years Old | Fullstack Development @[SplashAIO](https://splashbots.hyper.co/)
+
 
 
 > Programming languages
