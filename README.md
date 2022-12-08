@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/media/FcVMxpkakAA-Ri9?format=jpg&name=4096x4096" width="550" height="350">
+<img src="https://pbs.twimg.com/media/FcVMxpkakAA-Ri9?format=jpg&name=4096x4096" width="350" height="210">
 
 # Hi! I am Cyrus
 
