@@ -6,7 +6,9 @@
 
 16 Years Old | Fullstack Development @[SplashAIO](https://splashbots.hyper.co/)
 
+### Languages and Frameworks
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,java,python,go,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,react,google,mongodb)](https://skillicons.dev)
 
 Reach out to me on:
 
