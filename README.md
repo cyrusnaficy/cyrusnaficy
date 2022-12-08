@@ -9,7 +9,7 @@
 ### Languages and Frameworks
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,java,python,go,html,css)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=express,react,googlecloud,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,flask,fiber,react,googlecloud,heroku,mongodb)](https://skillicons.dev)
 
 Reach out to me on:
 
