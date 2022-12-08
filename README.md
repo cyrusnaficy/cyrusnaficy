@@ -2,7 +2,7 @@
 
 <h2 style="border: hidden;">16 Years Old | Fullstack Development @<a href="https://splashbots.hyper.co/">SplashAIO</a></h2>
 
-## ![](https://komarev.com/ghpvc/?username=TrustyJar)
+#### ![](https://komarev.com/ghpvc/?username=TrustyJar)
 
 > Programming languages
 
