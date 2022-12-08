@@ -1,4 +1,4 @@
-![](https://media.discordapp.net/attachments/935556275696185454/970897128203374673/Untitled_design.gif)
+<img src="https://pbs.twimg.com/media/FcVMxpkakAA-Ri9?format=jpg&name=4096x4096">
 
 # Hi! I am Cyrus
 
