@@ -9,7 +9,7 @@
 
 > Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=express,flask,react,electron,googlecloud,aws,heroku,git,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,flask,react,electron,gcp,aws,heroku,git,mongodb)](https://skillicons.dev)
 
 > Text Editors, IDEs, & Other Tools
 
