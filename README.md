@@ -5,15 +5,15 @@
 
 > Programming languages
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,python,html,css,go,java)]
+![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,python,html,css,go,java)
 
 > Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=express,flask,react,electron,gcp,aws,heroku,git,mongodb)]
+![My Skills](https://skillicons.dev/icons?i=express,flask,react,electron,gcp,aws,heroku,git,mongodb)
 
 > Text Editors, IDEs, & Other Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,figma)]
+![My Skills](https://skillicons.dev/icons?i=vscode,idea,figma)
 
 Reach out to me on:
 
