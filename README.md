@@ -13,7 +13,7 @@
 
 > Text Editors, IDEs, & Other Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,xcode,figma)](https://skillicons.dev)
 
 Reach out to me on:
 
