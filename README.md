@@ -7,7 +7,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,python,html,css,go,java)
 
-> Frameworks
+> Frameworks & Other
 
 ![My Skills](https://skillicons.dev/icons?i=express,flask,react,electron,gcp,aws,heroku,git,mongodb)
 
