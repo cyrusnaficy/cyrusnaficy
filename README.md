@@ -5,7 +5,7 @@
 
 > Programming languages
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,html,css,python,java,go)
+![My Skills](https://skillicons.dev/icons?i=nodejs,ts,python,go,java,js,html,css)
 
 > Frameworks & Other
 
