@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&width=470&lines=Whats+up!+I'm+Cyrus" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=40&duration=3000&pause=1000&width=470&lines=Whats+up!+I'm+Cyrus" alt="Typing SVG" />
 
 <h2 style="border: none;">17 Years Old | Entrepreneur & Fullstack Dev - Prev <a href="https://twitter.com/splash_aio">SplashAIO</a></h2>
 <p>Using BitBucket, so may be a bit inactive.</p>
